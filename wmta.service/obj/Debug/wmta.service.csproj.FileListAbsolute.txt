@@ -4,3 +4,9 @@ D:\Personal Practice\WifeManagenentToolApi\wmta.service\obj\Debug\wmta.service.c
 D:\Personal Practice\WifeManagenentToolApi\wmta.service\obj\Debug\wmta.service.csproj.CoreCompileInputs.cache
 D:\Personal Practice\WifeManagenentToolApi\wmta.service\obj\Debug\wmta.service.dll
 D:\Personal Practice\WifeManagenentToolApi\wmta.service\obj\Debug\wmta.service.pdb
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.domain.dll
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.Repository.dll
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.domain.pdb
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.domain.dll.config
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.Repository.pdb
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\obj\Debug\wmta.service.csproj.CopyComplete

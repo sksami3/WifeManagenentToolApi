@@ -41,7 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Base\BaseRepository.cs" />
+    <Compile Include="ExpenseRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\wmta.domain\wmta.domain.csproj">
+      <Project>{249F71C4-7BFA-4805-AFE5-8BFF58646E82}</Project>
+      <Name>wmta.domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
