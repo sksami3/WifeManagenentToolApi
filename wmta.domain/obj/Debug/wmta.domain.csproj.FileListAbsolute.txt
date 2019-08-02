@@ -1,0 +1,12 @@
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\bin\Debug\wmta.domain.dll.config
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\bin\Debug\wmta.domain.dll
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\bin\Debug\wmta.domain.pdb
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\bin\Debug\EntityFramework.dll
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\bin\Debug\EntityFramework.xml
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\obj\Debug\wmta.domain.csprojAssemblyReference.cache
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\obj\Debug\wmta.domain.csproj.CoreCompileInputs.cache
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\obj\Debug\wmta.domain.csproj.CopyComplete
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\obj\Debug\wmta.domain.dll
+D:\Personal Practice\WifeManagenentToolApi\wmta.domain\obj\Debug\wmta.domain.pdb

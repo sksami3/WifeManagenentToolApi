@@ -1,0 +1,6 @@
+D:\Personal Practice\WifeManagenentToolApi\wmta.Repository\bin\Debug\wmta.Repository.dll
+D:\Personal Practice\WifeManagenentToolApi\wmta.Repository\bin\Debug\wmta.Repository.pdb
+D:\Personal Practice\WifeManagenentToolApi\wmta.Repository\obj\Debug\wmta.Repository.csprojAssemblyReference.cache
+D:\Personal Practice\WifeManagenentToolApi\wmta.Repository\obj\Debug\wmta.Repository.csproj.CoreCompileInputs.cache
+D:\Personal Practice\WifeManagenentToolApi\wmta.Repository\obj\Debug\wmta.Repository.dll
+D:\Personal Practice\WifeManagenentToolApi\wmta.Repository\obj\Debug\wmta.Repository.pdb
