@@ -10,3 +10,11 @@ D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.domain.pd
 D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.domain.dll.config
 D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.Repository.pdb
 D:\Personal Practice\WifeManagenentToolApi\wmta.service\obj\Debug\wmta.service.csproj.CopyComplete
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.service.dll.config
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\EntityFramework.dll
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.Infrustructure.dll
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.Infrustructure.pdb
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\wmta.Infrustructure.dll.config
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\EntityFramework.xml
+D:\Personal Practice\WifeManagenentToolApi\wmta.service\bin\Debug\EntityFramework.SqlServer.xml

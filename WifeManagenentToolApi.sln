@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wmta.service", "wmta.servic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wifemanagement.web.api", "wifemanagement.api\wifemanagement.web.api.csproj", "{DAF9796C-E49F-4E96-839D-31066D365336}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wmta.Infrustructure", "wmta.Infrustructure\wmta.Infrustructure.csproj", "{E0607223-8729-4C15-B37C-F0D445FEF39F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DAF9796C-E49F-4E96-839D-31066D365336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAF9796C-E49F-4E96-839D-31066D365336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAF9796C-E49F-4E96-839D-31066D365336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0607223-8729-4C15-B37C-F0D445FEF39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0607223-8729-4C15-B37C-F0D445FEF39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0607223-8729-4C15-B37C-F0D445FEF39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0607223-8729-4C15-B37C-F0D445FEF39F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
