@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wmta.Repository", "wmta.Rep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wmta.service", "wmta.service\wmta.service.csproj", "{B28A117C-BBEA-4831-ACC6-A4FC0CA35D84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wifemanagement.api", "wifemanagement.api\wifemanagement.api.csproj", "{DAF9796C-E49F-4E96-839D-31066D365336}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wifemanagement.web.api", "wifemanagement.api\wifemanagement.web.api.csproj", "{DAF9796C-E49F-4E96-839D-31066D365336}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
