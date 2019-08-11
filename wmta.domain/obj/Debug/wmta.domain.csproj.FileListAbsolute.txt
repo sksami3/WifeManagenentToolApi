@@ -5,7 +5,6 @@ D:\Personal Practice\WifeManagenentToolApi\wmta.domain\bin\Debug\EntityFramework
 D:\Personal Practice\WifeManagenentToolApi\wmta.domain\bin\Debug\EntityFramework.SqlServer.dll
 D:\Personal Practice\WifeManagenentToolApi\wmta.domain\bin\Debug\EntityFramework.xml
 D:\Personal Practice\WifeManagenentToolApi\wmta.domain\bin\Debug\EntityFramework.SqlServer.xml
-D:\Personal Practice\WifeManagenentToolApi\wmta.domain\obj\Debug\wmta.domain.csprojAssemblyReference.cache
 D:\Personal Practice\WifeManagenentToolApi\wmta.domain\obj\Debug\wmta.domain.csproj.CoreCompileInputs.cache
 D:\Personal Practice\WifeManagenentToolApi\wmta.domain\obj\Debug\wmta.domain.csproj.CopyComplete
 D:\Personal Practice\WifeManagenentToolApi\wmta.domain\obj\Debug\wmta.domain.dll

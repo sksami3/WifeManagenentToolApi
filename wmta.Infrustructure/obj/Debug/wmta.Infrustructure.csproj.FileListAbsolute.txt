@@ -13,3 +13,5 @@ D:\Personal Practice\WifeManagenentToolApi\wmta.Infrustructure\obj\Debug\wmta.In
 D:\Personal Practice\WifeManagenentToolApi\wmta.Infrustructure\obj\Debug\wmta.Infrustructure.csproj.CopyComplete
 D:\Personal Practice\WifeManagenentToolApi\wmta.Infrustructure\obj\Debug\wmta.Infrustructure.dll
 D:\Personal Practice\WifeManagenentToolApi\wmta.Infrustructure\obj\Debug\wmta.Infrustructure.pdb
+D:\Personal Practice\WifeManagenentToolApi\wmta.Infrustructure\obj\Debug\wmta.Infrustructure.Migrations.first.resources
+D:\Personal Practice\WifeManagenentToolApi\wmta.Infrustructure\obj\Debug\wmta.Infrustructure.csproj.GenerateResource.cache

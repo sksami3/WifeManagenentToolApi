@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Base\BaseRepository.cs" />
-    <Compile Include="ExpenseRepository.cs" />
+    <Compile Include="Base\IBaseRepository.cs" />
+    <Compile Include="IExpenseRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

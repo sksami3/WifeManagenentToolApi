@@ -11,7 +11,7 @@ using wmta.Repository.Base;
 
 namespace wmta.service.Base
 {
-    public class BaseService<T> : BaseRepository<T> where T: BaseModel
+    public class BaseService<T> : IBaseRepository<T> where T: BaseModel
     {
         private WMDbContext _wMDbContext;
         DbSet<T> _innerDb;

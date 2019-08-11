@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using wmta.domain;
+using wmta.Repository;
 using wmta.service.Base;
 
 namespace wmta.service
 {
-    public class ExpenseService : BaseService<Expense>
+    public class ExpenseService : BaseService<Expense> , IExpenseRepository
     {
     }
 }

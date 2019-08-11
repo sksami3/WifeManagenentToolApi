@@ -48,6 +48,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Migrations\201908101642429_first.cs" />
+    <Compile Include="Migrations\201908101642429_first.Designer.cs">
+      <DependentUpon>201908101642429_first.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WMDbContext.cs" />
   </ItemGroup>
@@ -60,6 +65,11 @@
       <Project>{249F71C4-7BFA-4805-AFE5-8BFF58646E82}</Project>
       <Name>wmta.domain</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201908101642429_first.resx">
+      <DependentUpon>201908101642429_first.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
